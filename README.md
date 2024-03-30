@@ -15,8 +15,11 @@ Database Management: Utilizes a MySQL database for efficient storage and retriev
 
 # Technologies Used
 Java
+
 MySQL
+
 Spring Boot
+
 Restful Service
 
 # Getting Started
