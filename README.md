@@ -4,9 +4,13 @@ District Employee Exchange (DEE) is an innovative ed-tech platform designed to f
 
 ## Features
 User Registration and Authentication: Allows users to create accounts and securely log in to the platform.
+
 Job Search: Enables users to search for job openings based on their qualifications.
+
 Application Process: Streamlines the job application process, allowing users to apply for jobs directly through the platform.
+
 Employer Dashboard: Provides employers with a dashboard to manage job postings and review candidate applications.
+
 Database Management: Utilizes a MySQL database for efficient storage and retrieval of user, qualification, job, and application data.
 
 # Technologies Used
